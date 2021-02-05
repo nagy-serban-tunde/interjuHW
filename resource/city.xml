@@ -1,0 +1,40 @@
+<city xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<row>
+  <id>1</id>
+  <population>1174</population>
+  <name>Barra</name>
+</row>
+
+<row>
+  <id>2</id>
+  <population>8982000</population>
+  <name>London</name>
+</row>
+
+<row>
+  <id>3</id>
+  <population>705749</population>
+  <name>Washington</name>
+</row>
+
+<row>
+  <id>4</id>
+  <population>17545623</population>
+  <name>Los Angeles</name>
+</row>
+
+<row>
+  <id>5</id>
+  <population>1388000</population>
+  <name>Dublin</name>
+</row>
+
+<row>
+  <id>6</id>
+  <population>694583</population>
+  <name>Boston</name>
+</row>
+
+
+</city>

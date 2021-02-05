@@ -1,0 +1,23 @@
+<airline xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<row>
+  <id>1</id>
+  <name>Wizz Air</name>
+</row>
+
+<row>
+  <id>2</id>
+  <name>KLM</name>
+</row>
+
+<row>
+  <id>3</id>
+  <name>Air China (CA)</name>
+</row>
+
+<row>
+  <id>4</id>
+  <name>Lufthansa</name>
+</row>
+
+</airline>

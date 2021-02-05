@@ -1,0 +1,66 @@
+<flight xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<row>
+	  <id>1</id>
+	  <departures_city_id>1</departures_city_id>
+	  <arrival_city_id>5</arrival_city_id>
+	  <airline_id>1</airline_id>
+	  <distance>694</distance>
+	  <flight_time>15</flight_time>
+	</row>
+
+	<row>
+	  <id>2</id>
+	  <departures_city_id>5</departures_city_id>
+	  <arrival_city_id>6</arrival_city_id>
+	  <airline_id>1</airline_id>
+	  <distance>4809</distance>
+	  <flight_time>310</flight_time>
+	</row>
+	
+	<row>
+	  <id>3</id>
+	  <departures_city_id>6</departures_city_id>
+	  <arrival_city_id>4</arrival_city_id>
+	  <airline_id>1</airline_id>
+	  <distance>4170</distance>
+	  <flight_time>230</flight_time>
+	</row>
+	
+	<row>
+	  <id>5</id>
+	  <departures_city_id>2</departures_city_id>
+	  <arrival_city_id>6</arrival_city_id>
+	  <airline_id>2</airline_id>
+	  <distance>524</distance>
+	  <flight_time>260</flight_time>
+	</row>
+	
+	<row>
+	  <id>6</id>
+	  <departures_city_id>1</departures_city_id>
+	  <arrival_city_id>2</arrival_city_id>
+	  <airline_id>4</airline_id>
+	  <distance>942</distance>
+	  <flight_time>20</flight_time>
+	</row>
+	
+	<row>
+	  <id>7</id>
+	  <departures_city_id>2</departures_city_id>
+	  <arrival_city_id>3</arrival_city_id>
+	  <airline_id>4</airline_id>
+	  <distance>5898</distance>
+	  <flight_time>290</flight_time>
+	</row>
+	
+	<row>
+	  <id>8</id>
+	  <departures_city_id>3</departures_city_id>
+	  <arrival_city_id>4</arrival_city_id>
+	  <airline_id>4</airline_id>
+	  <distance>3692</distance>
+	  <flight_time>200</flight_time>
+	</row>
+	
+</flight>
